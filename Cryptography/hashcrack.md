@@ -1,4 +1,4 @@
-# PIE TIME Challenge
+# hashcrack Challenge
 
 ## Challenge Description
 ```
