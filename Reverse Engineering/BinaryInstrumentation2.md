@@ -15,6 +15,8 @@ Hints:
 Challenge Link: https://play.picoctf.org/practice/challenge/452
 
 ## Solution
+Source: https://www.youtube.com/@ItsMeChaste
+
 ### 1. Use binwalk on .exe file: 
 ```
 binwalk -e  bininst2.exe
